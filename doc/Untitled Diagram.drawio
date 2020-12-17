@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2020-12-16T20:58:47.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8E_f-BHDSOFWaJ_oiMhP" version="14.0.4" type="github">
+  <diagram id="8pu5iwidz_65cdUp3gq-" name="Page-1">
+    <mxGraphModel dx="1039" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-8" target="kC8aTu9hxjE-9BI2-gTr-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-8" target="kC8aTu9hxjE-9BI2-gTr-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-8" value="Appel d&#39;urgence" style="ellipse;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-9" target="kC8aTu9hxjE-9BI2-gTr-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-9" value="Envoi du signal SOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.133;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-10" target="kC8aTu9hxjE-9BI2-gTr-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-10" value="Réception du signal par l&#39;application" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-14" target="kC8aTu9hxjE-9BI2-gTr-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-14" target="kC8aTu9hxjE-9BI2-gTr-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-14" value="Vibration du &lt;br&gt;téléphone en&lt;br&gt;continu" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-15" target="kC8aTu9hxjE-9BI2-gTr-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-15" value="Avec réponse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-16" target="kC8aTu9hxjE-9BI2-gTr-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-16" value="Sans réponse au bout d&#39;1 minute" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kC8aTu9hxjE-9BI2-gTr-19" target="kC8aTu9hxjE-9BI2-gTr-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-19" value="2e appui Bouton" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-20" value="envoi des e-mails d&#39;urgence" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-21" value="opération fini" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kC8aTu9hxjE-9BI2-gTr-22" value="interrompre&lt;br&gt;&amp;nbsp;opération" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
